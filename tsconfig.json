@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types"],
+    "sourceMap": false,
+    "jsx": "react",
+    /*    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,*/
+    "strict": false,
+    "skipLibCheck": true,
+    "target": "ES6"
+
+    /* "outDir": "cjs",
+     */
+  }
+  /*  "include": ["src"],
+  "exclude": ["node_modules", "build"]*/
+}
